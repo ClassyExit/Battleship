@@ -5,4 +5,4 @@ Text-based Battleship game as part of the CPTS 121 class at Washington State Uni
 # Build
 * Visual Studio Community Edition 2019
 * Windows 10
-* C#
+* C
