@@ -1,5 +1,5 @@
 /****************************************************************************
-> Name: Alex Genriech
+> Name: Alex
 > Date: 10/21/19
 > Assignment: Battleship - PA6
 
